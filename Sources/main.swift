@@ -27,7 +27,7 @@ func cryptoHandler(data: [String:Any]) -> RequestHandler {
     return {
         request, response in
         
-        response.setHeader(.contentType, value: "text/html")
+        response.addHeader(.contentType, value: "text/html; charset=utf-8;")
         
         
         let str = "Hello Swift"
