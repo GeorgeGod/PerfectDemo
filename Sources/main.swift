@@ -6,6 +6,7 @@ import BCrypt
 import Stencil
 import PerfectLogger
 import PerfectRequestLogger
+import PerfectSMTP
 
 
 // An example request handler.
@@ -228,7 +229,30 @@ routes.add(method: .get, uri: "/stencil") { (request, response) in
     response.completed()
 }
 
-
+routes.add(method: .get, uri: "/smtp") { (request, response) in
+    
+    //这里的密码不是qq的密码，而是qq邮箱对应的授权码
+    let client = SMTPClient(url: "smtps://smtp.qq.com:465", username: "1341069918@qq.com", password: "dawhnpwolhevbaej")
+    
+    var email = EMail(client: client)
+    
+    email.subject = "这是一个测试邮件"
+    
+    email.from = Recipient(name: "George", address: "1341069918@qq.com")
+    
+    email.content = "你中奖了"
+    
+    email.to.append(Recipient(name: "", address: "2585037406@qq.com"))
+    email.cc.append(Recipient(name: "", address: "2585037406@qq.com"))
+    
+    do {
+        try email.send(completion: { (code, header, body) in
+            print(code) //如果code:0表示发送成功
+        })
+    } catch (let err) {
+        print(err)
+    }
+}
 
 server.addRoutes(routes)
 //server.serverPort = 8181

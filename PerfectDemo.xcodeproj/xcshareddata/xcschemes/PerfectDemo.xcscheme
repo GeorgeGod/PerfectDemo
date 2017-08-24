@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_941"
+               BlueprintIdentifier = "OBJ_944"
                BuildableName = "PerfectLib.framework"
                BlueprintName = "PerfectLib"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_957"
+               BlueprintIdentifier = "OBJ_960"
                BuildableName = "PerfectThread.framework"
                BlueprintName = "PerfectThread"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -42,10 +42,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_966"
+               BlueprintIdentifier = "OBJ_969"
                BuildableName = "COpenSSL.framework"
                BlueprintName = "COpenSSL"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -56,10 +56,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1654"
+               BlueprintIdentifier = "OBJ_1657"
                BuildableName = "PerfectCrypto.framework"
                BlueprintName = "PerfectCrypto"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -70,10 +70,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1673"
+               BlueprintIdentifier = "OBJ_1676"
                BuildableName = "PerfectNet.framework"
                BlueprintName = "PerfectNet"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -84,10 +84,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1694"
+               BlueprintIdentifier = "OBJ_1697"
                BuildableName = "PerfectHTTP.framework"
                BlueprintName = "PerfectHTTP"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -98,10 +98,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1719"
+               BlueprintIdentifier = "OBJ_1722"
                BuildableName = "PerfectCZlib.framework"
                BlueprintName = "PerfectCZlib"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -112,10 +112,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1753"
+               BlueprintIdentifier = "OBJ_1756"
                BuildableName = "PerfectHTTPServer.framework"
                BlueprintName = "PerfectHTTPServer"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -126,10 +126,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1792"
+               BlueprintIdentifier = "OBJ_1795"
                BuildableName = "PerfectCHTTPParser.framework"
                BlueprintName = "PerfectCHTTPParser"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -140,10 +140,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1813"
+               BlueprintIdentifier = "OBJ_1816"
                BuildableName = "PerfectMustache.framework"
                BlueprintName = "PerfectMustache"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -154,10 +154,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1832"
+               BlueprintIdentifier = "OBJ_1835"
                BuildableName = "Spectre.framework"
                BlueprintName = "Spectre"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -168,10 +168,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1846"
+               BlueprintIdentifier = "OBJ_1849"
                BuildableName = "PathKit.framework"
                BlueprintName = "PathKit"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -182,10 +182,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1855"
+               BlueprintIdentifier = "OBJ_1858"
                BuildableName = "Stencil.framework"
                BlueprintName = "Stencil"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -196,10 +196,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1884"
+               BlueprintIdentifier = "OBJ_1887"
                BuildableName = "Bits.framework"
                BlueprintName = "Bits"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -210,10 +210,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1909"
+               BlueprintIdentifier = "OBJ_1912"
                BuildableName = "Debugging.framework"
                BlueprintName = "Debugging"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -224,10 +224,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1916"
+               BlueprintIdentifier = "OBJ_1919"
                BuildableName = "libc.framework"
                BlueprintName = "libc"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -238,10 +238,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1927"
+               BlueprintIdentifier = "OBJ_1930"
                BuildableName = "Core.framework"
                BlueprintName = "Core"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -252,10 +252,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1962"
+               BlueprintIdentifier = "OBJ_1965"
                BuildableName = "Random.framework"
                BlueprintName = "Random"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -266,10 +266,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_1982"
+               BlueprintIdentifier = "OBJ_1985"
                BuildableName = "BCrypt.framework"
                BlueprintName = "BCrypt"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -280,24 +280,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_2007"
-               BuildableName = "SwiftMoment.framework"
-               BlueprintName = "SwiftMoment"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_2019"
+               BlueprintIdentifier = "OBJ_2010"
                BuildableName = "PerfectCURL.framework"
                BlueprintName = "PerfectCURL"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -308,10 +294,24 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_2042"
-               BuildableName = "PerfectLogger.framework"
-               BlueprintName = "PerfectLogger"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               BlueprintIdentifier = "OBJ_2033"
+               BuildableName = "PerfectSMTP.framework"
+               BlueprintName = "PerfectSMTP"
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_2054"
+               BuildableName = "SwiftMoment.framework"
+               BlueprintName = "SwiftMoment"
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -323,9 +323,23 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "OBJ_2066"
+               BuildableName = "PerfectLogger.framework"
+               BlueprintName = "PerfectLogger"
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_2090"
                BuildableName = "SwiftRandom.framework"
                BlueprintName = "SwiftRandom"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -336,10 +350,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_2075"
+               BlueprintIdentifier = "OBJ_2099"
                BuildableName = "PerfectRequestLogger.framework"
                BlueprintName = "PerfectRequestLogger"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -350,10 +364,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_2108"
-               BuildableName = "PerfectTemplate"
-               BlueprintName = "PerfectTemplate"
-               ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+               BlueprintIdentifier = "OBJ_2132"
+               BuildableName = "PerfectDemo"
+               BlueprintName = "PerfectDemo"
+               ReferencedContainer = "container:PerfectDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -381,10 +395,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_941"
+            BlueprintIdentifier = "OBJ_944"
             BuildableName = "PerfectLib.framework"
             BlueprintName = "PerfectLib"
-            ReferencedContainer = "container:PerfectTemplate.xcodeproj">
+            ReferencedContainer = "container:PerfectDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>

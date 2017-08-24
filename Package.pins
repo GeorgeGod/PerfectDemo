@@ -92,6 +92,12 @@
       "version": "1.0.3"
     },
     {
+      "package": "PerfectSMTP",
+      "reason": null,
+      "repositoryURL": "https://github.com/PerfectlySoft/Perfect-SMTP.git",
+      "version": "1.0.9"
+    },
+    {
       "package": "PerfectThread",
       "reason": null,
       "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Thread.git",
