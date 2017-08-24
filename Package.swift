@@ -31,3 +31,9 @@ let package = Package(
         
     ]
 )
+
+
+/*
+ step1: swift build
+ step2: swift package generate-xcodeproj
+ */
